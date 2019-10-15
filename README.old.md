@@ -1,3 +1,3 @@
 # ReactPractice
 
-old readme
+Delete once project has started
