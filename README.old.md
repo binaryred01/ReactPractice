@@ -1,3 +1,3 @@
 # ReactPractice
 
-Delete once project has started
+Delete once project has started, still practicing.
